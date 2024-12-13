@@ -15,7 +15,7 @@ if (nivelHeroi < 1000){
     nivelHeroi = "Ascendente"
 } else if (nivelHeroi = 9001 && nivelHeroi < 10000){
     nivelHeroi = "Imortal"
-} else if (nivelHeroi >= 10001) {
+} else (nivelHeroi >= 10001) {
     nivelHeroi = "Radiante"
 }
 
